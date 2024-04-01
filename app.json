@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyAddWeb",
+    "slug": "MyAddWeb",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyAddWeb"
+}
